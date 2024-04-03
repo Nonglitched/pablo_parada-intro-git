@@ -1,0 +1,11 @@
+commit ea1eb0f76bc729ca7230d36e4a5c931c4237025a
+Author: Nonglitched <127157778+Nonglitched@users.noreply.github.com>
+Date:   Wed Apr 3 11:42:18 2024 -0300
+
+    Añadidas algunas líneas acerca de mí en el archivo .txt
+
+commit f3594d519f96417e446a51152a40476fa066bed6
+Author: Nonglitched <127157778+Nonglitched@users.noreply.github.com>
+Date:   Wed Apr 3 11:28:44 2024 -0300
+
+    Se crearon dos archivos .txt
